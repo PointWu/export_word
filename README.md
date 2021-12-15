@@ -1,5 +1,7 @@
 # export_word
 
+基于 docxtemplater
+
 ## 运行步骤
 
 > 导出带 echarts 的 word，涉及转换问题。可以按照下面的命令把项目运行起来，别问我为啥要用下面的命令
