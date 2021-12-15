@@ -1,6 +1,8 @@
 # export_word
 
-基于 docxtemplater
+- 基于 docxtemplater
+
+- 导出 word,需要准备 word 模版，这个模版放在了 public 文件夹里面了。
 
 ## 运行步骤
 
